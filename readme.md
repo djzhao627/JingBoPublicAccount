@@ -1,4 +1,4 @@
-# 学习公众号开发
+# 静波瑜伽公众号开发
 
 ## 安装的包
 
@@ -13,3 +13,17 @@
 - ejs (嵌入式JavaScript模板)
 
 - mongoose (数据库)
+
+## how to use
+
+1.first install the packages
+
+```
+$npm install
+```
+
+2.then run app.js
+
+```
+right click the app.js and run it
+```
